@@ -81,7 +81,8 @@ python -c "import site; import os; path = site.getsitepackages()[1]; f = open(os
 
 These wheels represent compiled versions of open-source libraries. Full credit goes to the original authors and researchers:
 
-*   **Flash Attention:** [Tri Dao & wildminder](https://github.com/wildminder/AI-windows-whl)
+*   **Flash Attention:** [Tri Dao](https://github.com/Dao-AILab/flash-attention)
+*   **Other AI WHLs** [wildminder](https://github.com/wildminder/AI-windows-whl)
 *   **Nvdiffrast / Nvdiffrec:** [NVLabs](https://github.com/NVlabs/nvdiffrast)
 *   **FlexGEMM:** [JeffreyXiang](https://github.com/JeffreyXiang/FlexGEMM)
 *   **CuMesh:** [JeffreyXiang](https://github.com/JeffreyXiang/CuMesh)
